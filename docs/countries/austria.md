@@ -39,4 +39,4 @@
 
 [← Back to Main Page](../../README.md) | [🌍 All Countries](../countries.md)
 
-*Last updated: 2025-09-01*
+*Last updated: 2026-03-11*
